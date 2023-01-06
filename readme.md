@@ -4,7 +4,7 @@
 - [Martina Rodriguez](https://github.com/martinarodriguez1)
 - [Matías Rodriguez](https://github.com/mfr555)
 - [Antonio Mures](https://github.com/AntonioMures)
-- [Guillermo Cohelo](https://github.com/guillecoelho)
+- [Guillermo Coelho](https://github.com/guillecoelho)
 - [Diego Salbarrey](https://github.com/dsalb)
 
 ## DESARROLLO
@@ -16,6 +16,8 @@ El mismo debería gestionar:
 - Registro, consulta y finalización de estadías.
 - Suscripción y consulta a sistema de notificaciones (patrón observer).
 - Gestión y consulta de calificaciones de estadías
+
+Se ha implementado un manejo de exepciones básico ya que como parte de las indicaciones del cuerpo docente que es los inputs del usuario siempre responderían a tipos de datos y rangos esperados por el programa.
 
 ## TEMÁTICA DEL CURSO
 

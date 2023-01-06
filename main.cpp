@@ -1179,7 +1179,7 @@ int main(){
 
      //necesario arrancar con esto antes del menú
      actualizarFechaDelSistema();
-     cout << LINEA << "Ahora si, Bienvenido! \n";
+     cout << LINEA << "\nAhora si, Bienvenido! \n";
 
      bool salida = false;
      int opcion;
