@@ -15,6 +15,7 @@ El mismo debería gestionar:
 - Asignación de empleados a hostales.
 - Registro, consulta y finalización de estadías.
 - Suscripción y consulta a sistema de notificaciones (patrón observer).
+- Gestión y consulta de calificaciones de estadías
 
 ## TEMÁTICA DEL CURSO
 
